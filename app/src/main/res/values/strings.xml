@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qpony</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_load_error">Error during loading data</string>
+    <string name="currency_detail_date_text">Currency rate as of %1$s</string>
+    <string name="currency_detail_currency_text">Currency: %1$s</string>
+    <string name="currency_detail_currency_value_text">1 EUR: %1$s %2$s</string>
+    <string name="currency_item_currency_value_text">1 EUR: %1$s %2$s</string>
+    <string name="currency_item_name_text">Currency: %1$s</string>
+</resources>
